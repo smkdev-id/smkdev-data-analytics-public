@@ -1,1 +1,1 @@
-# Recommender System Project Samples
+# Data Analytics Learning Path
