@@ -1,0 +1,3 @@
+[submodule "training-data-analyst"]
+	path = training-data-analyst
+	url = git@github.com:GoogleCloudPlatform/training-data-analyst.git
