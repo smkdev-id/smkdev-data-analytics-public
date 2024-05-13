@@ -1,3 +1,6 @@
 [submodule "training-data-analyst"]
 	path = training-data-analyst
 	url = git@github.com:GoogleCloudPlatform/training-data-analyst.git
+[submodule "blogs/ga4-report-automation"]
+	path = blogs/ga4-report-automation
+	url = git@github.com:pandohansamuel19/ga4-report-automation.git
